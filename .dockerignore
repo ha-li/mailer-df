@@ -2,4 +2,6 @@
 *.iml
 .dockerignore
 .gitignore
-
+mailer-base.df
+mailer-logging.df
+mailer-live.df
